@@ -1,3 +1,11 @@
+# Metamask wallet task
+
+This project is to build wallet connection and simple interaction and display with minimal libraries. 
+Main challenge is to read the doc of Ether.js and play around with it.
+Used around 1 hr to do this project since it is straight forward on functionality.
+The look and feel is very minimal, if more libraries are permitted to use, I will use styled component for styling most of the components
+No context needed as only one layer. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
